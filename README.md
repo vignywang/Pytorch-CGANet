@@ -1,6 +1,6 @@
 # Medical_Seg
 ## Retinal Segmentation
-1.Implementation of "RETINAL VESSEL SEGMENTATION VIA CONTEXT GUIDE ATTENTION NET WITH JOINT HARD SAMPLE MINING STRATEGY"
+1.Implementation of "Retinal Vessel Segmentation Via Context Guide Attention Net With Joint Hard Sample Mining Strategy"
 
 2.Implementation of "DC-Net: Dual Context Network for 2D Medical Image Segmentation"
 
